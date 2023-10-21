@@ -1,0 +1,39 @@
+For some assignments, we will have a short ethics exercise. Here is
+the exercise that goes with the bluescreen project.
+
+First, please watch the 7 minute video on Canvas from the ethics
+staff.
+
+With the bluescreen code, you've seen how to manipulate images.
+You can imagine using these techniques to create images to
+entertain or illustrate. And you can also imagine using these
+techniques to mislead.
+
+Write a paragraph below describing two hypothetical scenarios where
+you use image manipulation - one benign and one harmful.
+Explain why one is ethical and one is not.
+Include this text file with your homework submission.
+
+Now imagine that your friend asks you to make him a postcard for Christmas.
+He would like to take pictures of him in front of snow but due to him living in San Francisco,
+there is nowhere near enough that he can go to get snow. For that reason, he asks you to take a picture of
+him and then modify the background to have snow. You do so in a way where the snow is clearly digitally
+generated and the picture is overlaid on the snow background. Your friend is happy as he gets his postcards
+that have him near some digitally generated snow, and you are happy because you got to practice your coding skills.
+This scenario provides a situation where image manipulation could be seen as benign as no parties involved are being
+manipulated. Your friend knows he was not in the snow, and you know he was not in the snow so no one receiving and
+viewing this postcard will think that he was actually in the snow. And even if someone did perceive your friend to
+be in the snow there are no harmful consequences to this making it ethically okay to help out your friend.
+
+Imagine that a court case is having trouble pinpointing if a suspect was at a certain location at a specific time.
+The prosecution believes that without a doubt the suspect was at the location however, there is no clear-cut video or
+image evidence that the suspect was there at the time. There is image evidence the suspect was on the scene at a different
+time though a week before the incident. The prosecution decided that they could manipulate the image of when the suspect was
+there a week prior with a back image of when the incident occurred. Since the suspect had been there before the incident
+the prosecution does not feel it to be misleading as the time should not matter in such a case. This is misleading and harmful
+manipulation of an image to sway others to view the suspect a certain way. This is immoral and unethical because regardless if
+the suspect was there on the scene at any time there is no evidence to prove the suspect was at the scene at the specific time
+the incident occurred. This falsification is highly immoral especially in a court scenario as this is the tampering of evidence
+and presenting of falsified evidence. Unlike the postcard this is clearly unethical as the prosecution was attempting to
+manipulate the judge and the jury to sway their opinions in favor of the prosecution.
+

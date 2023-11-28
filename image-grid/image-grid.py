@@ -58,7 +58,7 @@ def make_channels(filename):
     # -your code here-
     draw_image(image, out, left * 0, top, "red")
     draw_image(image, out, left, top, "green")
-    draw_image(image, out, left*2, top, "blue")
+    draw_image(image, out, left* 2, top, "blue")
 
     # Draw out image on screen
     out.show()
